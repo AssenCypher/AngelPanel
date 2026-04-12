@@ -1,0 +1,24 @@
+{
+  "name": "2d Angel VRC Packages",
+  "id": "com.2dangel.packages",
+  "url": "https://raw.githubusercontent.com/AssenCypher/AngelPanel-VPM/main/source.json",
+  "author": "2d Angel",
+  "packages": {
+    "com.2dangel.angelpanel.core": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.2dangel.angelpanel.core",
+          "displayName": "AngelPanel Core",
+          "version": "1.0.0",
+          "unity": "2022.3",
+          "description": "Free AP Core host shell for VRChat world creation.",
+          "url": "https://github.com/AssenCypher/AngelPanel-VPM/releases/download/Angel%20Panel%201.0/com.2dangel.angelpanel.core-1.0.0.zip",
+          "zipSHA256": "REPLACE_WITH_RELEASE_HASH",
+          "vpmDependencies": {
+            "com.vrchat.worlds": ">=3.7.6"
+          }
+        }
+      }
+    }
+  }
+}

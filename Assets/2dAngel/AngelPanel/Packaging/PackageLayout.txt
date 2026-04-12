@@ -1,0 +1,9 @@
+Packages/com.2dangel.ap.core/
+  package.json
+  README.md
+  CHANGELOG.md
+  Editor/
+    AngelPanel.Core.Editor.asmdef
+    AP_*.cs
+
+External modules should keep their own package roots and register into Core through bridge helpers and capability ids.

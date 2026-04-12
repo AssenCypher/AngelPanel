@@ -1,0 +1,29 @@
+{
+  "name": "com.2dangel.angelpanel.core",
+  "displayName": "AngelPanel Core",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Free AP Core host shell for VRChat world creation under 2d Angel. Includes AP host UI, PolyCount workspace, QuickOps base tools, AP Config, About/DLC status, and Optimizing pages.",
+  "author": {
+    "name": "E-Mommy"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "dependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.worlds": ">=3.7.6"
+  },
+  "url": "https://github.com/AssenCypher/AngelPanel-VPM/releases/download/Angel%20Panel%201.0/com.2dangel.angelpanel.core-1.0.0.zip",
+  "legacyFolders": {
+    "Assets/2dAngel/AngelPanel": ""
+  },
+  "keywords": [
+    "VRChat",
+    "Worlds",
+    "Editor",
+    "AngelPanel",
+    "Optimization",
+    "2d Angel",
+    "2d Angel VRC"
+  ],
+  "samples": []
+}
