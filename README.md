@@ -34,27 +34,6 @@
 
 ---
 
-## Screenshot Placeholders
-
-> Replace these with your final screenshot paths after upload.
-
-```md
-<!-- Main host window -->
-![AngelPanel Main Panel](docs/images/main-panel.png)
-
-<!-- Detached PolyCount window -->
-![PolyCount Workspace](docs/images/polycount-workspace.png)
-
-<!-- Debug page -->
-![Debug Page](docs/images/debug-page.png)
-
-<!-- Shader page -->
-![Shader Tools](docs/images/shader-page.png)
-
-<!-- Occlusion page -->
-![Occlusion Tools](docs/images/occlusion-page.png)
-```
-
 ---
 
 <a id="english"></a>
